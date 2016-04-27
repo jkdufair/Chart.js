@@ -90,8 +90,8 @@ module.exports = function(Chart) {
 					// Positioning
 					xPadding: options.tooltips.xPadding,
 					yPadding: options.tooltips.yPadding,
-					xAlign : options.tooltips.yAlign,
-					yAlign : options.tooltips.xAlign,
+					xAlign : options.tooltips.xAlign,
+					yAlign : options.tooltips.yAlign,
 
 					// Body
 					bodyColor: options.tooltips.bodyColor,
